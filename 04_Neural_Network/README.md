@@ -6,7 +6,7 @@
 ![20200430191938b814af53cb0db6aadbcf61beaeb7eaa7](https://github.com/mhaidar10/machine-leaning-pemula-dc/assets/72262185/8e3253f5-2f4f-4e64-b097-523613562176)
 
 # Proses Konvolusi
-**Animasi menunjukkan bagaimana proses konvolusi **
+**Animasi menunjukkan bagaimana proses konvolusi**
 
 **[Link]** _from 03_Convolutional_Neural_Network_
 
